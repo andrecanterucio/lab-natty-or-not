@@ -19,30 +19,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+# Ebook Desvendando a Inteligência Artificial ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este documento visa desmistificar o universo da inteligência artificial, explorando seus conceitos básicos, história, tipos e aplicações. Abordaremos desde os algoritmos que impulsionam a IA até as redes neurais, o aprendizado de máquina e o deep learning, além de discutir desafios éticos e sociais relacionados à sua crescente influência na sociedade
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT
+Gamma IA
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Chat GPT usado para criar os tópicos e descrição do conteúdo
+Gamma utilizada para criar o Ebook
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ebook gerado por IA descrito em tópicos
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK]([/exemplos/E-BOOK.md](https://gamma.app/docs/Desvendando-a-Inteligencia-Artificial-Uma-Viagem-Exploratoria-aioo7jpizc0qmmu))
 
 ## Links Interessantes
 
