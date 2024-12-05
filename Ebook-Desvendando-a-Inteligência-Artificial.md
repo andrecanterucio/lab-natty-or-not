@@ -1,3 +1,5 @@
+[Desvendando-a-Inteligencia-Artificial-Uma-Viagem-Exploratoria (1).pdf](https://github.com/user-attachments/files/18015570/Desvendando-a-Inteligencia-Artificial-Uma-Viagem-Exploratoria.1.pdf)
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
